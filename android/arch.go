@@ -125,8 +125,6 @@ var archVariants = map[ArchType][]string{
 		"cortex-a73",
 		"cortex-a75",
 		"cortex-a76",
-		"krait",
-		"kryo",
 		"kryo300",
 		"kryo385",
                 "kryo485",
